@@ -1,0 +1,5 @@
+1. Understanding the problem
+2. Concrete examples
+3. Break it down
+4. Solve or simplify
+5. Look back and refactor
