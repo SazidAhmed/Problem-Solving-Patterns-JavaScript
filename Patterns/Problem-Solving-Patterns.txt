@@ -1,1 +1,2 @@
 1. Frequency Counter Pattern (FCP)
+2. Multiple Pointer Pattern (MPP)
