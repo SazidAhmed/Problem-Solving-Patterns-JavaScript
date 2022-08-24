@@ -1,3 +1,5 @@
 1. Frequency Counter Pattern (FCP)
 2. Multiple Pointer Pattern (MPP)
 3. Sliding Window Pattern (SWP)
+4. Divide and Conquer Pattern (DAC)
+5. Recursion
