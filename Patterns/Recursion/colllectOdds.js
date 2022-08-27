@@ -33,3 +33,10 @@ function collectOdds(arr){
     console.log(newArr)
     return newArr;
 }
+
+collectOdds([1,2,3,4,5])
+// [1].concat(collectOddValues([2,3,4,5]));
+//             [].concat(collectOddValues([3,4,5]));
+//                         [3].concat(collectOddValues([4,5]));
+//                                     [].concat(collectOddValues([5]));
+//                                                 [5].concat(collectOddValues([]));
