@@ -39,3 +39,12 @@ console.log(recursiveRange(5))
 //                         return 3 + recursiveRange(2);
 //                                     return 2 + recursiveRange(1);
 //                                                 return 1 + recursiveRange(0);
+
+
+// FIBONACCI SOLUTION
+function fib(n){
+    if (n <= 2) return 1;
+    return fib(n-1) + fib(n-2);
+}
+
+fib(3)
